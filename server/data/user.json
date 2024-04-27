@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "Tatang",
+        "email": "tatang@gmail.com",
+        "password": "tatang123",
+        "role": "admin",
+        "phoneNumber": "081234567890",
+        "address": "Jalan Sudirman nomor 1" 
+    }
+]
